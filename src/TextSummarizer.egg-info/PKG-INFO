@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: TextSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/DikshaKhandelwal/TextSummarizer
+Author: DikshaKhandelwal
+Author-email: diksha1010.dk@gmail.com
+Project-URL: Bug Tracker, https://github.com/DikshaKhandelwal/TextSummarizer/issues
+License-File: LICENSE
+
+# TextSummarizer
